@@ -1,1 +1,3 @@
 # Netflix-Stock-Market-Prediction-using-Machine-Learning
+
+One of the most well-known OTT streaming services is Netflix. It provides a huge selection of movies and television shows and produces its work, dubbed Netflix Originals. Due to its popularity, firms like Netflix are frequently monitored by investors that are quite active in the stock market. The primary objective of this research is to predict stock prices of Netflix for analyzing profit on day closing. Data were gathered from 2018 to 2022. I separated the dataset into two parts: training and testing sets. Only the testing portion is to be used for the final forecast.
